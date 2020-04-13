@@ -1,0 +1,149 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  width: 100%;
+  background-color: #6666ff;
+  padding-left: 40px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  padding-left: 101px;
+  padding-top: 20px;
+}
+.n-footer {
+  color: rgb(233, 227, 227);
+  display: flex;
+  padding: 20px;
+  flex-wrap: wrap;
+  flex-shrink: inherit;
+}
+
+p {
+  margin-left: 40px;
+}
+i {
+  box-sizing: border-box;
+  padding-top: 10px;
+  font-family: Font awesome\5 Brands;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  padding: 10px;
+}
+span {
+  padding-left: 20%;
+}
+/* rounded border */
+.fab {
+  color: white;
+  padding: 8px;
+  border-radius: 50%;
+  border: 1px solid transparent;
+}
+
+#facebook {
+  background-color: #4267b2;
+  box-sizing: border-box;
+  font-family: Font awesome\5 Brands;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  margin-left: 8ipx;
+}
+#twitter {
+  background-color: rgba(29, 161, 242, 1);
+  box-sizing: border-box;
+  font-family: Font awesome\5 Brands;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  margin-left: 8px;
+}
+
+#istagram {
+  background: linear-gradient(
+    45deg,
+    #405de6,
+    #5851db,
+    #833ab4,
+    #c13584,
+    #e1306c,
+    #fd1d1d
+  );
+  box-sizing: border-box;
+  font-family: Font awesome\5 Brands;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  margin-left: 8px;
+}
+
+#wechat {
+  background-color: #2bff3d;
+  box-sizing: border-box;
+  font-family: Font awesome\5 Brands;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  color: white;
+  margin-left: 8px;
+}
+
+#cont1 {
+  flex: 40%;
+}
+#cont2 {
+  flex: 30%;
+}
+#cont3 {
+  flex: 30%;
+  align-self: center;
+  display: flex;
+}
+#show-date {
+  padding-left: -10px;
+  font-size: 22px;
+  margin-top: -8px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.p-end {
+  padding-left: -5px;
+}
+
+#copy {
+  margin-right:-35px;
+
+}
+
+#group-name{
+  padding-left:5px; 
+
+}
+
